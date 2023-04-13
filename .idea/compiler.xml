@@ -6,12 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="office-yunyi-biz" />
+        <module name="office-yunyi-biz (1)" />
+        <module name="office-yunyi-biz (2)" />
         <module name="office-yunyi-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="office-yunyi-api" target="1.5" />
       <module name="office-yunyi-biz" target="1.5" />
     </bytecodeTargetLevel>
   </component>
